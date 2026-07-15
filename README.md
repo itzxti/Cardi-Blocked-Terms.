@@ -21,3 +21,11 @@ back shot*, backshot*, bj, blowjob, boner*, clit, clitoris, coem, coems, coom, c
 # Soft Custom Words:
 
 *.cf/*, *.ga/*, *.gq/*, *.ml/*, *.nz/*, *.tk/*, *@everyone*, *@here*, *barefoot.pics*, child diddl*, d0cksbi*, d0x*, db1n, dbin, diddy, dih, dihk*, *discord.com/application-directory/*, *discord.com/billing*, *discord.com/discovery/applications*, *discord.com/gift*, *discord.com/invite/*, discord.com/invite\*, *discord.com/oauth2/authorize*, *discord.gg/*, *discord.gg\*, *discord.gift/*, *discord.new/*, *discord.nfp.is/*, "*discordapp.com/invite/*", "*discordapp.com/invite\\*", dob1n, dobin, docksbi*, dox*, dox, *doxbin*, doxed, doxing, doxx, doxxed, doxxing, *drop ship*, *dropship*, dxb1n, dxbin, dxxed, *ed.tc*, epstein, *ezstat.ru*, fucktard*, *gamer.hair*, *gamer.tattoo*, *grabify.link*, groom*, *gyat*, hawk tuah, horny, *https://\discord.gg\/*, *imagevault.cloud*, incest, *iplis.ru*, *iplog.co*, *iplogger.cn*, *iplogger.co*, *iplogger.com*, *iplogger.info*, *iplogger.org*, *iplogger.ru*, kid diddl*, kill urself, kill yourself, kkk, kys, *maper.info*, *massive.boats*, *massive.mom*, *mymassive.store*, *mymassive.top*, *mymassive.yachts*, *myprivate.pics*, n word, n-word, *noodshare.pics*, nude*, nword, *opensea.io/*, *plz.life*, retard*, retarted, *screenshare.pics*, *sellix.io/*, *shareit.pics*, *shipment.website*, sped, *stonks.boats*, *stonks.fun*, *stopify.co*, *sugma.mom*, swastika, *t.me/*, tard, tarded, *telegram.com/*, *telegram.me/*, *temu.*, *temu.com*, *temu.com/s/*, *toes.beauty*, *tuah, *whatsapp.com*, *wl.gl*, *yip.su*, *yum.mom*, zoophile
+
+----
+
+## Twitch:
+
+# Blacklisted words (AntiBot):
+
+𝘀𝘁𝗿𝗲𝗮𝗺𝗯oo .com, 𝘀𝘁𝗿𝗲𝗮𝗺𝗯oo, twitch-play, twitch-gaming, stream skill, stream-skill, streamris, smmviewers.ru, smmviewers, view͙e̤rs, Best viewers on, B͟est Viewers, Ch̍eap Viewers on, B̟est viewers, Ch͟eap viewers, nvb3ws.xyz, official.com, nonactionantis.com, wbluechekdsa.com, .top/, click.ru, twitchplay, twitchgaming, streamkill, stream-rise, urlr, nezhna, botsister, botsister.com, NEZHNA, HostHub, streаmviewers, Cheap Viewers, cutt.ly/* , u.to/*, streаmviеwers, streamrise, StreamBoo, yourfollowz, Buy viewers, mystrm, mountviewers, Buy primes, bigfollows, https://vk.cc/*, Buy followers, .to/viewss, eztwitch, dogehype,
